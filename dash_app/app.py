@@ -26,4 +26,4 @@ def display_page(pathname):
         return home.layout
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True) 
